@@ -2,5 +2,4 @@ streamlit==0.71.0
 pandas==1.1.4
 numpy==1.19.4
 scikit-learn==0.22.1
-pickle==0.7.5
 pycaret==2.2.1
